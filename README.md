@@ -1,7 +1,6 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Angular
-- 📫 reach me: ![Gmail](https://img.shields.io/badge/gmail-abinandhmurukesan%40gmail.com-red)
 - ⚡ Excited to learnmore and code more!
 
 
