@@ -1,6 +1,6 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - ⚡ Excited to learnmore and code more!
 
 
