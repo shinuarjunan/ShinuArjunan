@@ -20,7 +20,6 @@
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=656562805594&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfgU5NjSvhbs-bsdhUsYXLCUzVco3cxRHvMPmomjkOmja5B0QnnTZVRoCYMMQAvD_BwE&gclsrc=aw.ds)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
 [![Wordpress](https://img.shields.io/badge/WORDPRESS-100000?style=for-the-badge&logo=Wordpress&logoColor=white&labelColor=00a1d3&color=00a1d3)](https://wordpress.org/) 
 [![DJANGO](https://img.shields.io/badge/DJANGO-100000?style=for-the-badge&logo=DJANGO&logoColor=white&labelColor=187f58&color=187f58)](https://www.djangoproject.com/) 
 [![MYSQL ](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/) 
