@@ -1,6 +1,6 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+- 🌱 I’m currently learning [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 - ⚡ Excited to learnmore and code more!
 
 
