@@ -5,7 +5,7 @@
 
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AbinandhMJ#6975) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbinandhMJ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18146616/abinandh-mj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abinandh_mj) [![Codepen](https://img.shields.io/badge/CODEPEN-100000?style=flat&logo=codepen&logoColor=white&labelColor=000000&color=000000)](https://codepen.io/AbinandhMJ) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AbinandhMJ#6975) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinandhmj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18146616/abinandh-mj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbinandhMJ) [![Codepen](https://img.shields.io/badge/CODEPEN-100000?style=flat&logo=codepen&logoColor=white&labelColor=000000&color=000000)](https://codepen.io/AbinandhMJ) 
 
 
 ## 💻 Tech Stack:
@@ -17,8 +17,6 @@
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=656562805594&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfgU5NjSvhbs-bsdhUsYXLCUzVco3cxRHvMPmomjkOmja5B0QnnTZVRoCYMMQAvD_BwE&gclsrc=aw.ds)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Wordpress](https://img.shields.io/badge/WORDPRESS-100000?style=for-the-badge&logo=Wordpress&logoColor=white&labelColor=00a1d3&color=00a1d3)](https://wordpress.org/) 
 [![DJANGO](https://img.shields.io/badge/DJANGO-100000?style=for-the-badge&logo=DJANGO&logoColor=white&labelColor=187f58&color=187f58)](https://www.djangoproject.com/) 
 [![MYSQL ](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/) 
