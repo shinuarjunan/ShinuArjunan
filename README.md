@@ -1,11 +1,11 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-- ⚡ Excited to learnmore and code more!
+- ⚡ Excited to learn more and code more!
 
 
-### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AbinandhMJ#6975) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinandhmj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18146616/abinandh-mj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbinandhMJ) [![Codepen](https://img.shields.io/badge/CODEPEN-100000?style=flat&logo=codepen&logoColor=white&labelColor=000000&color=000000)](https://codepen.io/AbinandhMJ) 
+### 🌐 Connect with Me:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinandhmj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18146616/abinandh-mj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbinandhMJ) [![Codepen](https://img.shields.io/badge/CODEPEN-100000?style=flat&logo=codepen&logoColor=white&labelColor=000000&color=000000)](https://codepen.io/AbinandhMJ) 
 
 
 ## 💻 Tech Stack:
