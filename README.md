@@ -1,4 +1,7 @@
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/AbinandhMJ/AbinandhMJ/assets/99226172/f8cd1a50-1ed2-4767-95d6-b583b2fa9d3a)
+
 ### 💫 About Me:
+
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 - ⚡ Excited to learn more and code more!
