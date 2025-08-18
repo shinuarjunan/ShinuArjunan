@@ -2,8 +2,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/) & [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- 🔭 I’m currently working on Software Development at a Healthcare Tech Startup
 - ⚡ Excited to learn more and code more!
 
 
@@ -25,6 +24,8 @@
 [![DJANGO](https://img.shields.io/badge/DJANGO-100000?style=for-the-badge&logo=DJANGO&logoColor=white&labelColor=187f58&color=187f58)](https://www.djangoproject.com/) 
 [![MYSQL ](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/) 
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/) 
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 
 
